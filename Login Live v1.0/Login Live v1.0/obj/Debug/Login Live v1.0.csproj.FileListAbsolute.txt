@@ -1,0 +1,36 @@
+D:\#Hoc\Code\Login Live v1.0\Login Live v1.0\bin\Debug\Login Live v1.0.exe.config
+D:\#Hoc\Code\Login Live v1.0\Login Live v1.0\bin\Debug\Login Live v1.0.exe
+D:\#Hoc\Code\Login Live v1.0\Login Live v1.0\bin\Debug\Login Live v1.0.pdb
+D:\#Hoc\Code\Login Live v1.0\Login Live v1.0\obj\Debug\Login Live v1.0.csprojAssemblyReference.cache
+D:\#Hoc\Code\Login Live v1.0\Login Live v1.0\obj\Debug\Login_Live_v1._0.Form1.resources
+D:\#Hoc\Code\Login Live v1.0\Login Live v1.0\obj\Debug\Login_Live_v1._0.Properties.Resources.resources
+D:\#Hoc\Code\Login Live v1.0\Login Live v1.0\obj\Debug\Login Live v1.0.csproj.GenerateResource.cache
+D:\#Hoc\Code\Login Live v1.0\Login Live v1.0\obj\Debug\Login Live v1.0.csproj.CoreCompileInputs.cache
+D:\#Hoc\Code\Login Live v1.0\Login Live v1.0\obj\Debug\Login Live v1.0.exe
+D:\#Hoc\Code\Login Live v1.0\Login Live v1.0\obj\Debug\Login Live v1.0.pdb
+D:\Soft\win10\#Hoc\#Hoc\Code\Login Live v1.0\Login Live v1.0\bin\Debug\Login Live v1.0.exe.config
+D:\Soft\win10\#Hoc\#Hoc\Code\Login Live v1.0\Login Live v1.0\bin\Debug\Login Live v1.0.exe
+D:\Soft\win10\#Hoc\#Hoc\Code\Login Live v1.0\Login Live v1.0\bin\Debug\Login Live v1.0.pdb
+D:\Soft\win10\#Hoc\#Hoc\Code\Login Live v1.0\Login Live v1.0\bin\Debug\WebDriver.dll
+D:\Soft\win10\#Hoc\#Hoc\Code\Login Live v1.0\Login Live v1.0\bin\Debug\WebDriver.xml
+D:\Soft\win10\#Hoc\#Hoc\Code\Login Live v1.0\Login Live v1.0\obj\Debug\Login Live v1.0.csproj.AssemblyReference.cache
+D:\Soft\win10\#Hoc\#Hoc\Code\Login Live v1.0\Login Live v1.0\obj\Debug\Login_Live_v1._0.Form1.resources
+D:\Soft\win10\#Hoc\#Hoc\Code\Login Live v1.0\Login Live v1.0\obj\Debug\Login_Live_v1._0.Properties.Resources.resources
+D:\Soft\win10\#Hoc\#Hoc\Code\Login Live v1.0\Login Live v1.0\obj\Debug\Login Live v1.0.csproj.GenerateResource.cache
+D:\Soft\win10\#Hoc\#Hoc\Code\Login Live v1.0\Login Live v1.0\obj\Debug\Login Live v1.0.csproj.CoreCompileInputs.cache
+D:\Soft\win10\#Hoc\#Hoc\Code\Login Live v1.0\Login Live v1.0\obj\Debug\Login Live v1.0.csproj.CopyComplete
+D:\Soft\win10\#Hoc\#Hoc\Code\Login Live v1.0\Login Live v1.0\obj\Debug\Login Live v1.0.exe
+D:\Soft\win10\#Hoc\#Hoc\Code\Login Live v1.0\Login Live v1.0\obj\Debug\Login Live v1.0.pdb
+C:\Users\natsw\Documents\C#\Login Live v1.0\Login Live v1.0\Login Live v1.0\bin\Debug\Login Live v1.0.exe.config
+C:\Users\natsw\Documents\C#\Login Live v1.0\Login Live v1.0\Login Live v1.0\bin\Debug\Login Live v1.0.exe
+C:\Users\natsw\Documents\C#\Login Live v1.0\Login Live v1.0\Login Live v1.0\bin\Debug\Login Live v1.0.pdb
+C:\Users\natsw\Documents\C#\Login Live v1.0\Login Live v1.0\Login Live v1.0\bin\Debug\WebDriver.dll
+C:\Users\natsw\Documents\C#\Login Live v1.0\Login Live v1.0\Login Live v1.0\bin\Debug\WebDriver.xml
+C:\Users\natsw\Documents\C#\Login Live v1.0\Login Live v1.0\Login Live v1.0\obj\Debug\Login Live v1.0.csproj.AssemblyReference.cache
+C:\Users\natsw\Documents\C#\Login Live v1.0\Login Live v1.0\Login Live v1.0\obj\Debug\Login_Live_v1._0.Form1.resources
+C:\Users\natsw\Documents\C#\Login Live v1.0\Login Live v1.0\Login Live v1.0\obj\Debug\Login_Live_v1._0.Properties.Resources.resources
+C:\Users\natsw\Documents\C#\Login Live v1.0\Login Live v1.0\Login Live v1.0\obj\Debug\Login Live v1.0.csproj.GenerateResource.cache
+C:\Users\natsw\Documents\C#\Login Live v1.0\Login Live v1.0\Login Live v1.0\obj\Debug\Login Live v1.0.csproj.CoreCompileInputs.cache
+C:\Users\natsw\Documents\C#\Login Live v1.0\Login Live v1.0\Login Live v1.0\obj\Debug\Login Live v1.0.csproj.CopyComplete
+C:\Users\natsw\Documents\C#\Login Live v1.0\Login Live v1.0\Login Live v1.0\obj\Debug\Login Live v1.0.exe
+C:\Users\natsw\Documents\C#\Login Live v1.0\Login Live v1.0\Login Live v1.0\obj\Debug\Login Live v1.0.pdb
