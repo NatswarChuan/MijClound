@@ -10,5 +10,6 @@ namespace Login_Live_v1._0
     class Data
     {
         public static string[] mang = null;
+        public static string[] fileProxy = null;
     }
 }
